@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **I am currently learning Web-Development. I specialize in JavaScript, and have experience working with HTML, and CSS. I also have experience working with Python and Bootstrab .** <br/><br/><br/>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Stats" />
